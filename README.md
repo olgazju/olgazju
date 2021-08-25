@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a data engineer and machine learning enthusiast living and working in Tel Aviv, Israel
+<a href="https://www.linkedin.com/in/olgabraginskaya/" target='_blank'>
+  <img align="left" alt="LinkedIn" width="22px" src="./linkedin.svg" />
+</a>
+
 <!--
 **olgazju/olgazju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
