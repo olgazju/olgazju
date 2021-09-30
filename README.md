@@ -4,6 +4,8 @@ I'm a data engineer and machine learning enthusiast living and working in Tel Av
 
 My blog is [here](https://www.datobra.com/) 
 
+My last post is [PubSub to BigQuery: How to Build a Data Pipeline Using Dataflow, Apache Beam, and Java](https://www.datobra.com/posts/pubsub_to_bigquery_dataflow_pipeline/)
+
 ✉️&nbsp;&nbsp;&nbsp;Reach me: olgazjuzju@gmail.com or datobra.blog@gmail.com
 <br />
 <br />
