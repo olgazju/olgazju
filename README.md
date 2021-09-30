@@ -2,6 +2,8 @@
 
 I'm a data engineer and machine learning enthusiast living and working in Tel Aviv, Israel
 
+My blog is [here](https://www.datobra.com/) 
+
 ✉️&nbsp;&nbsp;&nbsp;Reach me: olgazjuzju@gmail.com or datobra.blog@gmail.com
 <br />
 <br />
