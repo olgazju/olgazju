@@ -4,9 +4,10 @@ I'm a data engineer and machine learning enthusiast living and working in Tel Av
 
 My blog is [here](https://www.datobra.com/) 
 
-My last post is [PubSub to BigQuery: How to Build a Data Pipeline Using Dataflow, Apache Beam, and Java](https://www.datobra.com/posts/pubsub_to_bigquery_dataflow_pipeline/)
+Also [Dev community](https://dev.to/olgabraginskaya) and [Medium](https://olgabraginskaya.medium.com/)
 
-✉️&nbsp;&nbsp;&nbsp;Reach me: olgazjuzju@gmail.com or datobra.blog@gmail.com
+
+✉️&nbsp;&nbsp;&nbsp;Reach me: olgazjuzju@gmail.com 
 <br />
 <br />
 <a href="https://www.linkedin.com/in/olgabraginskaya/" target='_blank'>
@@ -22,7 +23,7 @@ My last post is [PubSub to BigQuery: How to Build a Data Pipeline Using Dataflow
 #### Languages
 
 - Python
-- Java
+- Go
 
 #### Machine Learning
 
@@ -31,9 +32,13 @@ My last post is [PubSub to BigQuery: How to Build a Data Pipeline Using Dataflow
 
 #### Technologies
 
+- Aws
 - Google Cloud
+- Kubernetes
 - Docker and Docker Compose
 - Airflow
+- Argo
+- Dbt
 
 <br />
 <br />
