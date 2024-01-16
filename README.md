@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a data engineer and machine learning enthusiast living and working in Tel Aviv, Israel
+I'm a data engineer and machine learning enthusiast living and working in Israel
 
 My blog is [here](https://www.datobra.com/) 
 
@@ -18,24 +18,16 @@ Also [Dev community](https://dev.to/olgabraginskaya) and [Medium](https://olgabr
 </a>
 <br />
 <br />
-### Skills
+### My Skills
 
-#### Languages
-
-- Python
-- Go
-
-#### Machine Learning
-
-- Pandas
-- PySpark
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,aws,gcp,kubernetes,kafka,docker" />
+  </a>
+</p>
 
 #### Technologies
 
-- Aws
-- Google Cloud
-- Kubernetes
-- Docker and Docker Compose
 - Airflow
 - Argo
 - Dbt
