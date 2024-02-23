@@ -4,7 +4,7 @@ I'm a data engineer and machine learning enthusiast living and working in Israel
 
 Subscribe to my [substack](https://olgabraginskaya.substack.com/)
 
-My blog is [Dev community](https://dev.to/olgabraginskaya)
+My blog on [Dev community](https://dev.to/olgabraginskaya)
 
 Also [here](https://www.datobra.com/) and [Medium](https://olgabraginskaya.medium.com/)
 
