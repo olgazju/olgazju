@@ -2,9 +2,11 @@
 
 I'm a data engineer and machine learning enthusiast living and working in Israel
 
-My blog is [here](https://www.datobra.com/) 
+Subscribe to my [substack](https://olgabraginskaya.substack.com/)
 
-Also [Dev community](https://dev.to/olgabraginskaya) and [Medium](https://olgabraginskaya.medium.com/)
+My blog is [Dev community](https://dev.to/olgabraginskaya)
+
+Also [here](https://www.datobra.com/) and [Medium](https://olgabraginskaya.medium.com/)
 
 
 ✉️&nbsp;&nbsp;&nbsp;Reach me: olgazjuzju@gmail.com 
