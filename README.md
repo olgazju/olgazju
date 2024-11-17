@@ -4,7 +4,7 @@ I'm a data engineer and machine learning enthusiast living and working in Israel
 
 Subscribe to my [blog](https://www.datobra.com/)
 
-My blog on [Dev community](https://dev.to/olgabraginskaya) and [Medium](https://olgabraginskaya.medium.com/)
+My blog is also on [Dev community](https://dev.to/olgabraginskaya) and [Medium](https://olgabraginskaya.medium.com/)
 
 
 ✉️&nbsp;&nbsp;&nbsp;Reach me: olgazjuzju@gmail.com 
