@@ -26,12 +26,6 @@ My blog is also on [Dev community](https://dev.to/olgabraginskaya) and [Medium](
   </a>
 </p>
 
-#### Technologies
-
-- Airflow
-- Argo
-- Dbt
-
 <br />
 <br />
 
