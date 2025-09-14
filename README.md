@@ -18,6 +18,14 @@ Streamlit + FastAPI app powered by Bright Data MCP, analyzing company reputation
 
 ---
 
+**WYKRA: Web You Know, Real-time Analysis**  
+🔗 [Telegram-based AI agent for influencer discovery](https://dev.to/olgabraginskaya/wykra-web-you-know-real-time-analysis-20i3)  
+Built with Bright Data MCP and n8n, this bot analyzes Instagram accounts and helps you discover who's really influencing.  
+Developed for the **Bright Data x n8n Real-Time AI Agents Challenge**  
+→ [GitHub repo](https://github.com/olgazju/wykra_bot)
+
+---
+
 **Who’s really following you on Dev.to?**  
 🔗 [A guide to analyzing your audience](https://dev.to/olgabraginskaya/whos-really-following-you-on-devto-a-guide-to-analyzing-your-audience-1c0m)  
 Data analysis of Dev.to followers: who’s active, who’s real, who’s just ghosting.  
@@ -35,6 +43,11 @@ Final project from my machine learning course: generating lyrics with LSTMs.
 🔗 [A coder’s journey there and back again](https://dev.to/olgabraginskaya/the-golang-saga-a-coders-journey-there-and-back-again-part-3-the-graphing-conundrum-12h2)  
 Tried to learn Go, got distracted, wrote about it anyway.
 
+---
+
+**How We Mastered dbt (A True Story)**  
+🔗 [Corporate systems, real-life lessons](https://dev.to/olgabraginskaya/how-we-mastered-dbt-a-true-story-3bf9)  
+A Firebolt team tale of migrating to dbt: technical, chaotic, and painfully honest.
 
 ---
 
