@@ -1,11 +1,29 @@
-## Hi there 👋
+# Oh That Data Girl
 
-I'm a data engineer and machine learning enthusiast living and working in Israel
+**Anti-Bullshit Enthusiast. Data engineer with a systems mindset, mildly owned by cats.**
 
-Subscribe to my [blog](https://www.datobra.com/)
+Writing what I wish someone had written earlier.
 
-My blog is also on [Dev community](https://dev.to/olgabraginskaya) and [Medium](https://olgabraginskaya.medium.com/)
+📬 Read the blog: [datobra.com](https://www.datobra.com)  
+🗨 Also on [Dev.to](https://dev.to/olgabraginskaya) and [Medium](https://olgabraginskaya.medium.com/)
 
+---
+
+### 🧰 Technologies I Actually Use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,aws,docker,kafka,gcp,kubernetes" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olgazju&count_private=true&show_icons=true&theme=graywhite)
+
+---
+
+### 📡 Reach me
 
 ✉️&nbsp;&nbsp;&nbsp;Reach me: olgazjuzju@gmail.com 
 <br />
@@ -18,31 +36,4 @@ My blog is also on [Dev community](https://dev.to/olgabraginskaya) and [Medium](
 </a>
 <br />
 <br />
-### My Skills
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,aws,gcp,kubernetes,kafka,docker" />
-  </a>
-</p>
-
-<br />
-<br />
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=olgazju&count_private=true&theme=graywhite)
-
-
-<!--
-**olgazju/olgazju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
