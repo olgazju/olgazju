@@ -8,7 +8,7 @@ Writing what I wish someone had written earlier.
 🗨 Also on [Dev.to](https://dev.to/olgabraginskaya) and [Medium](https://olgabraginskaya.medium.com/)
 
 
-## 🧩 Selected Projects & Writings
+## 🧩 Select Projects & Writings
 
 **Reputato**  
 🔗 [Not every company is golden. We sniff out the ones that are.](https://dev.to/olgabraginskaya/reputato-not-every-company-is-golden-we-sniff-out-the-ones-that-are-3daa)  
