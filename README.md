@@ -51,14 +51,6 @@ A Firebolt team tale of migrating to dbt: technical, chaotic, and painfully hone
 
 ---
 
-### 🧰 Technologies I Actually Use
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,aws,docker,kafka,gcp,kubernetes" />
-</p>
-
----
-
 ### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olgazju&count_private=true&show_icons=true&theme=graywhite)
