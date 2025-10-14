@@ -65,7 +65,7 @@ A Firebolt team tale of migrating to dbt: technical, chaotic, and painfully hone
 <a href="https://www.linkedin.com/in/olgabraginskaya/" target='_blank'>
   <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/olgazju_dev" target='_blank'>
+<a href="https://twitter.com/ohthatdatagirl" target='_blank'>
   <img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <br />
